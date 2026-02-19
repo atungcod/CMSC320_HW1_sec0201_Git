@@ -18,3 +18,9 @@ Answer: Both Merging and Rebasing are ways to utilize version control (Git).
 However, a merge creates a dedicated merge commit, preserving the exact history of the codebase.
 A rebase rewrites history by moving feature branch commits onto the tip of the main branch, creating a clean line. 
 It is best to use merge when adding new features for one branch to the main one while rebase can be used to update a localfeature branch with the latest changes from the main branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: This is my first real class learning Python at UMD and I took STAT400 last semester and it is interesting seeing how these two intersect. Data science is a field that genuinely interests me and I want to
+pursue it further. I have several semester-long projects going on and I am excited to see where they go. I want to be able to connect data, AI/ML to other fields to various roles such as product/project management,
+software development, and cybersecurity. I am always looking for new opportunities to build upon my knowledge and grow as as student.
